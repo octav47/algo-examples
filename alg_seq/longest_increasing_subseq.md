@@ -13,5 +13,6 @@ $``$
 
 ```math
 i_1 < i_2 < \ldots < i_k,
+
 a[i_1] < a[i_2] < \ldots < a[i_k]
 ```
