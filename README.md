@@ -22,3 +22,7 @@
 ## Геометрия (1)
 
 [Длина объединения отрезков на прямой](geometry/length_of_segments_union.md)
+
+## Разное (1)
+
+[Определение bpm (beats per minute) в браузере](etc/bpm.md)
